@@ -26,4 +26,4 @@
 - 이 코드에서는 Teachable Machine에서 내보낸 이미지 분류 모델을 사용하여 웹캠 이미지를 실시간으로 분류합니다.
 - 이 코드를 실행하면 웹페이지에서 시작 버튼을 클릭하여 웹캠을 활성화할 수 있습니다. 웹캠이 활성화되면 실시간으로 웹캠 비디오가 표시되고, Teachable - Machine 모델을 사용하여 해당 이미지를 분류합니다. 분류된 결과는 화면에 표시됩니다.
 
-# https://parkhdo.github.io/wepappTM-02/
+링크 # https://parkhdo.github.io/wepappTM-02/
